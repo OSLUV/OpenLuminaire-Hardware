@@ -1,0 +1,1 @@
+﻿"emitting_window_width"=63mm"emitting_window_height"=48mm"emitter_mounting_peg_diameter"=3.4mm"wall_thickness"=2mm"ballast_pcb_length"=88.9mm"ballast_pcb_width"=88.9mm"emitter_balast_separation"=5mm"emitter_wall_clearance"=0.5mm"ballast_pcb_clearance"=0.3mm"emitter_ballast_spacer_clearance"=0.2mm

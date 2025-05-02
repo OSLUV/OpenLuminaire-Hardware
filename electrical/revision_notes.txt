@@ -1,0 +1,11 @@
+Revision notes for USHIO RP2040 controller V1.0:
+
+Move LEDs to back side.
+Add more GPIO test points.
+Change USHIO connector to right-angle.
+Fix 5V supply for radar.
+Fix boost enable resistor network.
+Consider DNFing enable pullup.
+Fix brownout resistor network.
+Mount LEDs and programming header on other side.
+Add voltage and pinout to barrel jack.
