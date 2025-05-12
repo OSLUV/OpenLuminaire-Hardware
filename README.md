@@ -1,2 +1,2 @@
 # OpenLuminaire-Hardware
-Hardware for OSLUV Open Source 222nm Luminaire 
+Electrical and mechanical files for OSLUV Open Source 222nm Luminaire

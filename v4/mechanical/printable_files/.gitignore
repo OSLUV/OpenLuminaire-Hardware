@@ -1,0 +1,3 @@
+#Allow 3D STEP models.
+!*.step
+!*.STEP

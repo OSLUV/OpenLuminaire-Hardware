@@ -1,0 +1,12 @@
+#Solidworks temp files.
+~$*.sldprt
+~$*.SLDPRT
+~$*.sldasm
+~$*.SLDASM
+*.err
+
+#Derived 3D models.
+*.stl
+*.STL
+*.step
+*.STEP

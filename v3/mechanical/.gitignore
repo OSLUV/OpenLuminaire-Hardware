@@ -1,0 +1,38 @@
+#Altium history and preview files.
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.schPreview
+*.PcbDoc.htm
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbDoc.Zip
+*.PcbLib.Zip
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.SchLib.Zip
+debug.log
+
+#Derived 3D models.
+*.stl
+*.STL
+*.step
+*.STEP
+
+#3D printing G-code files.
+*.gcode
+
+#Solidworks temp files.
+~$*.sldprt
+~$*.SLDPRT
+~$*.sldasm
+~$*.SLDASM
+*.err
+
+#Libreoffice lock files.
+.~lock.*#
+
+#OSX metadata.
+*.DS_Store
