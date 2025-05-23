@@ -166,20 +166,20 @@ Variation5=Designator=J11|UniqueId=\XHTFCMRH|Kind=1|AlternatePart=
 Variation6=Designator=J5|UniqueId=\TDYCELFK|Kind=1|AlternatePart=
 Variation7=Designator=J4|UniqueId=\RASYHZCB|Kind=1|AlternatePart=
 Variation8=Designator=C?|UniqueId=\TGGZDCEW|Kind=1|AlternatePart=
-Variation9=Designator=C?|UniqueId=\GGWBFMAG|Kind=1|AlternatePart=
+Variation9=Designator=M1|UniqueId=\CBEQZDMB|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Client
-Value=Cottage Industries
+Name=Revision
+Value=1.1
 
 [Parameter2]
 Name=Project
 Value=Lamp Controller
 
 [Parameter3]
-Name=Revision
-Value=1.1
+Name=Client
+Value=Apollo Airtech
 
 [DiffPairSuffix1]
 Positive=_D+
